@@ -13,3 +13,7 @@ func sum() {
 func subtract() {
   fmt.Println("Subtract")
 }
+
+func divide() {
+  fmt.Println("Divide!")
+}
