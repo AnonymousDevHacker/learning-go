@@ -17,3 +17,7 @@ func subtract() {
 func divide() {
   fmt.Println("Divide!")
 }
+
+func multiply() {
+  fmt.Println("Multiply!")
+}
