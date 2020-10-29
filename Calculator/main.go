@@ -9,3 +9,7 @@ func main() {
 func sum() {
   fmt.Println("Sum!")
 }
+
+func subtract() {
+  fmt.Println("Subtract")
+}
